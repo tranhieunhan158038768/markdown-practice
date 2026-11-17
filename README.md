@@ -1,6 +1,6 @@
 # markdown-practice
-##A topic about my favorite game:
-###osu lazer
+## A topic about my favorite game:
+### osu lazer
 **is a rhythm game**, *also an open-source built on the C#*
 ***Core Components***
 - Multi-threaded input polling for sub-millisecond latency.
