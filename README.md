@@ -7,6 +7,7 @@
 - Multi-threaded input polling for sub-millisecond latency.
 - Standardized scoring algorithms normalizing mod multipliers.
 - Built-in replay telemetry for frame-by-frame error analysis.
+
 ***Execution Pipeline***
 1. Poll raw cursor coordinates via RawInput.
 2. Render beatmap audio-visual cues at uncapped frame rates.
